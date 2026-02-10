@@ -51,22 +51,32 @@ def format_words(day_obj) -> str:
     return "\n".join(lines)
 
 def format_grammar(day_obj) -> str:
-    # Evening message: short header + grammar immediately (no extra titles)
+    # Evening message: short header + grammar + soft ending
     g = day_obj["grammar"]
+
     lines = ["აბა მეორე გაკვეთილიც გადაიკითხე 💪", ""]
+
     lines.append(f"🧠 {g['explanation_en']}")
     lines.append(f"🧠 {g['explanation_ka']}")
     lines.append("")
+
     for ex in g["examples"]:
         lines.append(f"✅ {ex['en']}")
         lines.append(f"   {ex['ka']}")
+
     lines.append("")
+
     for q in g["mini_quiz"]:
         lines.append(f"❓ {q['q_en']}")
         lines.append(f"   {q['q_ka']}")
         lines.append(f"💡 {q['a_en']}")
         lines.append("")
+
+    # final soft ending (ONLY for grammar)
+    lines.append("სიყვარულით რეზისგან 🥰")
+
     return "\n".join(lines).strip()
+
 
 
 def send_telegram_message(token: str, chat_id: str, text: str) -> None:
