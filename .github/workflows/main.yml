@@ -3,10 +3,8 @@ name: Daily English Teacher
 on:
   schedule:
     # GitHub Actions uses UTC. Tbilisi is UTC+4.
-    # 11:00 Tbilisi = 07:00 UTC
-    - cron: "0 7 * * *"
-    # 17:00 Tbilisi = 13:00 UTC
-    - cron: "0 13 * * *"
+    - cron: "0 7 * * *"   # 11:00 Tbilisi
+    - cron: "0 13 * * *"  # 17:00 Tbilisi
   workflow_dispatch:
     inputs:
       mode:
@@ -33,7 +31,6 @@ jobs:
           START_DATE: ${{ secrets.START_DATE }}
           MODE: ${{ github.event.inputs.mode }}
         run: |
-          # If triggered by schedule, decide mode by UTC hour
           if [ -z "${MODE}" ]; then
             HOUR=$(date -u +"%H")
             if [ "${HOUR}" = "07" ]; then
