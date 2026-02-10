@@ -1,0 +1,2284 @@
+[
+  {
+    "day": 1,
+    "theme_en": "Daily life & routines (B1)",
+    "theme_ka": "ყოველდღიური ცხოვრება და რუტინა (B1)",
+    "words": [
+      [
+        "routine",
+        "რუტინა/ჩვეულებრივი რეჟიმი"
+      ],
+      [
+        "habit",
+        "ჩვევა"
+      ],
+      [
+        "schedule",
+        "განრიგი"
+      ],
+      [
+        "appointment",
+        "შეხვედრა/ჩაწერა"
+      ],
+      [
+        "commute",
+        "სამსახურში/სწავლაში გზაზე სიარული"
+      ],
+      [
+        "errand",
+        "საქმე (წვრილი საქმეები)"
+      ],
+      [
+        "groceries",
+        "სასურსათო პროდუქტები"
+      ],
+      [
+        "laundry",
+        "სარეცხი"
+      ],
+      [
+        "deadline",
+        "ვადა"
+      ],
+      [
+        "notification",
+        "შეტყობინება"
+      ],
+      [
+        "reminder",
+        "შეხსენება"
+      ],
+      [
+        "to reschedule",
+        "გადატანა/გადაწყობა"
+      ],
+      [
+        "to cancel",
+        "გაუქმება"
+      ],
+      [
+        "to confirm",
+        "დადასტურება"
+      ],
+      [
+        "to manage",
+        "მართვა/გამკლავება"
+      ],
+      [
+        "to focus",
+        "კონცენტრირება"
+      ],
+      [
+        "to avoid",
+        "თავიდან არიდება"
+      ],
+      [
+        "to prefer",
+        "უპირატესობის მინიჭება"
+      ],
+      [
+        "to improve",
+        "გაუმჯობესება"
+      ],
+      [
+        "to save time",
+        "დროის დაზოგვა"
+      ],
+      [
+        "productive",
+        "პროდუქტიული"
+      ],
+      [
+        "efficient",
+        "ეფექტური"
+      ],
+      [
+        "stressful",
+        "სტრესული"
+      ],
+      [
+        "relaxed",
+        "დამშვიდებული"
+      ],
+      [
+        "tired",
+        "დაღლილი"
+      ],
+      [
+        "energetic",
+        "ენერგიული"
+      ],
+      [
+        "usually",
+        "ჩვეულებრივ"
+      ],
+      [
+        "rarely",
+        "იშვიათად"
+      ],
+      [
+        "at least",
+        "სულ მცირე"
+      ],
+      [
+        "instead",
+        "მაგივრად/ნაცვლად"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Present Perfect vs Past Simple (quick test)",
+      "title_ka": "Present Perfect vs Past Simple (სწრაფი განსხვავება)",
+      "explanation_en": "Use Past Simple for a finished time in the past (yesterday, last week). Use Present Perfect for life experience or actions with a result now (no finished time mentioned).",
+      "explanation_ka": "Past Simple გამოიყენე დასრულებული წარსულის დროისთვის (გუშინ, გასულ კვირას). Present Perfect — გამოცდილება/შედეგი ახლა, როცა კონკრეტული დასრულებული დრო არ გითქვამს.",
+      "examples": [
+        {
+          "en": "I bought groceries yesterday.",
+          "ka": "გუშინ ვიყიდე პროდუქტები."
+        },
+        {
+          "en": "I have bought groceries, so we can cook now.",
+          "ka": "ვიყიდე პროდუქტები (უკვე), ამიტომ ახლა შეგვიძლია მოვამზადოთ."
+        },
+        {
+          "en": "Have you ever tried Georgian wine?",
+          "ka": "ოდესმე გიცდია ქართული ღვინო?"
+        },
+        {
+          "en": "Yes, I tried it last summer.",
+          "ka": "კი, გასულ ზაფხულს ვცადე."
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "(ever) ___ you ___ sushi?",
+          "q_ka": "(ოდესმე) ___ შენ ___ სუში?",
+          "a_en": "Have you ever tried sushi?"
+        },
+        {
+          "q_en": "I ___ him two hours ago.",
+          "q_ka": "მე ___ მას ორი საათის წინ.",
+          "a_en": "I saw him two hours ago."
+        }
+      ]
+    }
+  },
+  {
+    "day": 2,
+    "theme_en": "Food & ordering (B1)",
+    "theme_ka": "საკვები და შეკვეთა (B1)",
+    "words": [
+      [
+        "ingredients",
+        "ინგრედიენტები"
+      ],
+      [
+        "recipe",
+        "რეცეპტი"
+      ],
+      [
+        "portion",
+        "პორცია"
+      ],
+      [
+        "spicy",
+        "მწარე"
+      ],
+      [
+        "sweet",
+        "ტკბილი"
+      ],
+      [
+        "sour",
+        "მჟავე"
+      ],
+      [
+        "bitter",
+        "მწარე (გემო)"
+      ],
+      [
+        "salty",
+        "მარილიანი"
+      ],
+      [
+        "fresh",
+        "ახალი"
+      ],
+      [
+        "frozen",
+        "გაყინული"
+      ],
+      [
+        "takeaway",
+        "წაღებით"
+      ],
+      [
+        "delivery",
+        "მიწოდება"
+      ],
+      [
+        "tip",
+        "ჩაის ფული"
+      ],
+      [
+        "menu",
+        "მენიუ"
+      ],
+      [
+        "recommendation",
+        "რეკომენდაცია"
+      ],
+      [
+        "allergy",
+        "ალერგია"
+      ],
+      [
+        "gluten-free",
+        "უგლუტენო"
+      ],
+      [
+        "vegetarian",
+        "ვეგეტარიანული"
+      ],
+      [
+        "vegan",
+        "ვეგანური"
+      ],
+      [
+        "to order",
+        "შეკვეთა"
+      ],
+      [
+        "to choose",
+        "არჩევა"
+      ],
+      [
+        "to suggest",
+        "შეთავაზება/შემოთავაზება"
+      ],
+      [
+        "to pay",
+        "გადახდა"
+      ],
+      [
+        "receipt",
+        "ქვითარი"
+      ],
+      [
+        "refund",
+        "დაბრუნება/ანაზღაურება"
+      ],
+      [
+        "discount",
+        "ფასდაკლება"
+      ],
+      [
+        "deal",
+        "შეთავაზება/აქცია"
+      ],
+      [
+        "overcooked",
+        "გადამეტებულად მოხარშული/შეწვარი"
+      ],
+      [
+        "undercooked",
+        "ნაკლებად მოხარშული/შეწვარი"
+      ],
+      [
+        "tasty",
+        "გემრიელი"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Countable vs Uncountable + some/any",
+      "title_ka": "დათვლადი/უდათვლელი + some/any",
+      "explanation_en": "Countable nouns: one apple, two apples. Uncountable: water, rice. Use 'some' in offers/positive, 'any' in questions/negatives.",
+      "explanation_ka": "დათვლადი: ერთი ვაშლი, ორი ვაშლი. უდათვლელი: წყალი, ბრინჯი. 'some' — დადებითში/შეთავაზებაში; 'any' — კითხვაში/უარყოფითში.",
+      "examples": [
+        {
+          "en": "Can I have some water?",
+          "ka": "შეიძლება ცოტა წყალი?"
+        },
+        {
+          "en": "Do you have any rice?",
+          "ka": "გაქვს რაიმე ბრინჯი?"
+        },
+        {
+          "en": "I don’t have any sugar.",
+          "ka": "მე არ მაქვს შაქარი."
+        },
+        {
+          "en": "Let’s buy some apples.",
+          "ka": "მოდი ვიყიდოთ ცოტა ვაშლი."
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "There isn’t ___ milk left.",
+          "q_ka": "აღარ არის დარჩენილი ___ რძე.",
+          "a_en": "There isn’t any milk left."
+        },
+        {
+          "q_en": "I need ___ tomatoes.",
+          "q_ka": "მჭირდება ___ პომიდორი.",
+          "a_en": "I need some tomatoes."
+        }
+      ]
+    }
+  },
+  {
+    "day": 3,
+    "theme_en": "Work & productivity (B1)",
+    "theme_ka": "სამუშაო და პროდუქტიულობა (B1)",
+    "words": [
+      [
+        "task",
+        "დავალება"
+      ],
+      [
+        "priority",
+        "პრიორიტეტი"
+      ],
+      [
+        "progress",
+        "პროგრესი"
+      ],
+      [
+        "feedback",
+        "უკუკავშირი"
+      ],
+      [
+        "meeting",
+        "შეხვედრა"
+      ],
+      [
+        "agenda",
+        "დღის წესრიგი"
+      ],
+      [
+        "minutes",
+        "შეხვედრის ჩანაწერი"
+      ],
+      [
+        "proposal",
+        "წინადადება"
+      ],
+      [
+        "budget",
+        "ბიუჯეტი"
+      ],
+      [
+        "profit",
+        "მოგება"
+      ],
+      [
+        "loss",
+        "ზარალი"
+      ],
+      [
+        "expense",
+        "ხარჯი"
+      ],
+      [
+        "revenue",
+        "შემოსავალი"
+      ],
+      [
+        "strategy",
+        "სტრატეგია"
+      ],
+      [
+        "goal",
+        "მიზანი"
+      ],
+      [
+        "deadline",
+        "ვადა"
+      ],
+      [
+        "to negotiate",
+        "მოლაპარაკება"
+      ],
+      [
+        "to approve",
+        "დამტკიცება"
+      ],
+      [
+        "to postpone",
+        "გადავადება"
+      ],
+      [
+        "to delegate",
+        "დელეგირება"
+      ],
+      [
+        "to hire",
+        "დაქირავება"
+      ],
+      [
+        "to train",
+        "გაწვრთნა/სწავლება"
+      ],
+      [
+        "to launch",
+        "გაშვება"
+      ],
+      [
+        "to track",
+        "მონიტორინგი/თვალყურის დევნება"
+      ],
+      [
+        "to measure",
+        "გაზომვა/შეფასება"
+      ],
+      [
+        "pipeline",
+        "შეთანხმებების/გაყიდვების ხაზის პროცესი"
+      ],
+      [
+        "stakeholder",
+        "დაინტერესებული მხარე"
+      ],
+      [
+        "urgent",
+        "სასწრაფო"
+      ],
+      [
+        "optional",
+        "არასავალდებულო"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Modals for obligation: must / have to / should",
+      "title_ka": "ვალდებულება: must / have to / should",
+      "explanation_en": "'Must' = strong (speaker). 'Have to' = rule/necessity. 'Should' = advice.",
+      "explanation_ka": "'Must' — ძლიერი მოთხოვნა (ჩემი აზრით). 'Have to' — აუცილებლობა/წესი. 'Should' — რჩევა.",
+      "examples": [
+        {
+          "en": "I must finish this today.",
+          "ka": "დღეს აუცილებლად უნდა დავასრულო."
+        },
+        {
+          "en": "I have to pay taxes.",
+          "ka": "გადასახადები უნდა გადავიხადო (აუცილებლობა/წესი)."
+        },
+        {
+          "en": "You should rest a bit.",
+          "ka": "ცოტა უნდა დაისვენო (რჩევა)."
+        },
+        {
+          "en": "Do we have to attend the meeting?",
+          "ka": "აუცილებელია შეხვედრაზე მისვლა?"
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "You ___ drink more water (advice).",
+          "q_ka": "შენ ___ მეტი წყალი უნდა დალიო (რჩევა).",
+          "a_en": "You should drink more water."
+        },
+        {
+          "q_en": "I ___ renew my ID by law.",
+          "q_ka": "კანონით ___ პირადობის განახლება.",
+          "a_en": "I have to renew my ID by law."
+        }
+      ]
+    }
+  },
+  {
+    "day": 4,
+    "theme_en": "Travel & directions (B1→B2)",
+    "theme_ka": "მოგზაურობა და მიმართულებები (B1→B2)",
+    "words": [
+      [
+        "destination",
+        "დანიშნულება"
+      ],
+      [
+        "route",
+        "მარშრუტი"
+      ],
+      [
+        "intersection",
+        "გადაკვეთა"
+      ],
+      [
+        "lane",
+        "ზოლი"
+      ],
+      [
+        "traffic",
+        "მოძრაობა/ტრეფიკი"
+      ],
+      [
+        "delay",
+        "დაგვიანება/შეყოვნება"
+      ],
+      [
+        "cancelled",
+        "გაუქმებული"
+      ],
+      [
+        "boarding pass",
+        "ბორტპასი"
+      ],
+      [
+        "check-in",
+        "ჩექ-ინი"
+      ],
+      [
+        "luggage",
+        "ბარგი"
+      ],
+      [
+        "carry-on",
+        "ხელბარგი"
+      ],
+      [
+        "customs",
+        "საბაჟო"
+      ],
+      [
+        "insurance",
+        "დაზღვევა"
+      ],
+      [
+        "reservation",
+        "ჯავშანი"
+      ],
+      [
+        "hostel",
+        "ჰოსტელი"
+      ],
+      [
+        "apartment",
+        "ბინა"
+      ],
+      [
+        "sightseeing",
+        "ღირსშესანიშნაობების ნახვა"
+      ],
+      [
+        "museum",
+        "მუზეუმი"
+      ],
+      [
+        "to book",
+        "დაჯავშნა"
+      ],
+      [
+        "to miss",
+        "გამოტოვება/ვერ მისწრება"
+      ],
+      [
+        "to catch (a bus)",
+        "დასწრება/ჩაჯდომა"
+      ],
+      [
+        "to suggest",
+        "რეკომენდაცია"
+      ],
+      [
+        "straight ahead",
+        "პირდაპირ წინ"
+      ],
+      [
+        "turn left",
+        "მარცხნივ მოუხვიე"
+      ],
+      [
+        "turn right",
+        "მარჯვნივ მოუხვიე"
+      ],
+      [
+        "nearby",
+        "ახლომახლო"
+      ],
+      [
+        "far away",
+        "შორს"
+      ],
+      [
+        "crowded",
+        "ხალხმრავალი"
+      ],
+      [
+        "quiet",
+        "მშვიდი"
+      ],
+      [
+        "affordable",
+        "ხელმისაწვდომი/იაფი"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Prepositions of place & movement (to / at / in / on)",
+      "title_ka": "ადგილის/მოძრაობის წინდებულები (to / at / in / on)",
+      "explanation_en": "Use 'to' for movement, 'at' for a point, 'in' inside a space, 'on' on a surface/transport (on the bus).",
+      "explanation_ka": "'to' — მიმართულება, 'at' — წერტილი/ადგილმდებარეობა, 'in' — შიგნით, 'on' — ზედაპირზე/ტრანსპორტზე (on the bus).",
+      "examples": [
+        {
+          "en": "I’m going to the airport.",
+          "ka": "აეროპორტში მივდივარ."
+        },
+        {
+          "en": "Meet me at the entrance.",
+          "ka": "შესასვლელთან შემხვდი."
+        },
+        {
+          "en": "My passport is in my bag.",
+          "ka": "პასპორტი ჩანთაშია."
+        },
+        {
+          "en": "I’m on the bus right now.",
+          "ka": "ახლა ავტობუსში ვარ."
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "She is waiting ___ the corner.",
+          "q_ka": "ის ელოდება ___ კუთხესთან.",
+          "a_en": "She is waiting at the corner."
+        },
+        {
+          "q_en": "Put it ___ the table.",
+          "q_ka": "დაადე ___ მაგიდაზე.",
+          "a_en": "Put it on the table."
+        }
+      ]
+    }
+  },
+  {
+    "day": 5,
+    "theme_en": "People & relationships (B1)",
+    "theme_ka": "ადამიანები და ურთიერთობები (B1)",
+    "words": [
+      [
+        "supportive",
+        "მხარდამჭერი"
+      ],
+      [
+        "reliable",
+        "სანდო"
+      ],
+      [
+        "honest",
+        "გულწრფელი"
+      ],
+      [
+        "polite",
+        "ზრდილი"
+      ],
+      [
+        "rude",
+        "უხეში"
+      ],
+      [
+        "confident",
+        "თავდაჯერებული"
+      ],
+      [
+        "shy",
+        "მორიდებული"
+      ],
+      [
+        "patient",
+        "მოთმინებით"
+      ],
+      [
+        "impatient",
+        "მოუთმენელი"
+      ],
+      [
+        "relationship",
+        "ურთიერთობა"
+      ],
+      [
+        "friendship",
+        "მეგობრობა"
+      ],
+      [
+        "colleague",
+        "კოლეგა"
+      ],
+      [
+        "neighbor",
+        "მეზობელი"
+      ],
+      [
+        "argument",
+        "კამათი"
+      ],
+      [
+        "misunderstanding",
+        "გაუგებრობა"
+      ],
+      [
+        "apology",
+        "ბოდიში"
+      ],
+      [
+        "compliment",
+        "კომპლიმენტი"
+      ],
+      [
+        "to agree",
+        "დათანხმება"
+      ],
+      [
+        "to disagree",
+        "არ დაეთანხმო"
+      ],
+      [
+        "to trust",
+        "ნდობა"
+      ],
+      [
+        "to respect",
+        "პატივისცემა"
+      ],
+      [
+        "to behave",
+        "ქცევა"
+      ],
+      [
+        "to blame",
+        "დაბრალება"
+      ],
+      [
+        "to forgive",
+        "პატიება"
+      ],
+      [
+        "to appreciate",
+        "დაფასება"
+      ],
+      [
+        "to support",
+        "მხარდაჭერა"
+      ],
+      [
+        "to worry",
+        "ნერვიულობა"
+      ],
+      [
+        "to relax",
+        "დამშვიდება"
+      ],
+      [
+        "to meet up",
+        "შეხვედრა/ნახვა"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Comparatives & superlatives (better, the best)",
+      "title_ka": "შედარებითი და ზემდგომი ხარისხი (better, the best)",
+      "explanation_en": "Use -er / more for comparatives; the -est / the most for superlatives. Irregular: good→better→the best.",
+      "explanation_ka": "Comparative: -er / more; Superlative: the -est / the most. არაწესიერი: good→better→the best.",
+      "examples": [
+        {
+          "en": "This café is cheaper than that one.",
+          "ka": "ეს კაფე უფრო იაფია, ვიდრე ის."
+        },
+        {
+          "en": "She is the most reliable person here.",
+          "ka": "ის აქ ყველაზე სანდო ადამიანია."
+        },
+        {
+          "en": "Today is better than yesterday.",
+          "ka": "დღეს უკეთესია, ვიდრე გუშინ."
+        },
+        {
+          "en": "This is the best option.",
+          "ka": "ეს საუკეთესო ვარიანტია."
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "My phone is ___ (expensive) than yours.",
+          "q_ka": "ჩემი ტელეფონი ___ (ძვირი) ვიდრე შენი.",
+          "a_en": "My phone is more expensive than yours."
+        },
+        {
+          "q_en": "It’s the ___ (good) day of the week.",
+          "q_ka": "ეს არის კვირის ___ (კარგი) დღე.",
+          "a_en": "It’s the best day of the week."
+        }
+      ]
+    }
+  },
+  {
+    "day": 6,
+    "theme_en": "Health & habits (B1→B2)",
+    "theme_ka": "ჯანმრთელობა და ჩვევები (B1→B2)",
+    "words": [
+      [
+        "symptom",
+        "სიმპტომი"
+      ],
+      [
+        "treatment",
+        "მკურნალობა"
+      ],
+      [
+        "medicine",
+        "წამალი"
+      ],
+      [
+        "prescription",
+        "რეცეპტი"
+      ],
+      [
+        "side effect",
+        "გვერდითი ეფექტი"
+      ],
+      [
+        "appointment",
+        "ჩაწერა/ვიზიტი"
+      ],
+      [
+        "check-up",
+        "პროფილაქტიკა/შემოწმება"
+      ],
+      [
+        "diet",
+        "კვება/დიეტა"
+      ],
+      [
+        "nutrition",
+        "კვებითი ღირებულება"
+      ],
+      [
+        "hydration",
+        "ჰიდრატაცია"
+      ],
+      [
+        "sleep quality",
+        "ძილის ხარისხი"
+      ],
+      [
+        "stress",
+        "სტრესი"
+      ],
+      [
+        "anxiety",
+        "შფოთვა"
+      ],
+      [
+        "pain",
+        "ტკივილი"
+      ],
+      [
+        "to recover",
+        "გამოჯანმრთელება"
+      ],
+      [
+        "to prevent",
+        "პრევენცია"
+      ],
+      [
+        "to reduce",
+        "შემცირება"
+      ],
+      [
+        "to increase",
+        "გაზრდა"
+      ],
+      [
+        "to breathe",
+        "სუნთქვა"
+      ],
+      [
+        "to cough",
+        "ხველა"
+      ],
+      [
+        "to exercise",
+        "ვარჯიში"
+      ],
+      [
+        "workout",
+        "ვარჯიში/ტრენინგი"
+      ],
+      [
+        "stretching",
+        "გაწელვა"
+      ],
+      [
+        "posture",
+        "მდგომარეობა/პოზა"
+      ],
+      [
+        "injury",
+        "ტრავმა"
+      ],
+      [
+        "healthy",
+        "ჯანმრთელი"
+      ],
+      [
+        "unhealthy",
+        "არაჯანმრთელი"
+      ],
+      [
+        "balanced",
+        "ბალანსირებული"
+      ],
+      [
+        "moderation",
+        "ზომიერება"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Gerunds vs infinitives (stop doing / stop to do)",
+      "title_ka": "Gerund vs Infinitive (stop doing / stop to do)",
+      "explanation_en": "Some verbs take -ing (enjoy doing). 'Stop doing' = quit an activity. 'Stop to do' = pause to do something else.",
+      "explanation_ka": "ზოგი ზმნა იღებს -ing ფორმას (enjoy doing). 'Stop doing' — საქმიანობის შეწყვეტა. 'Stop to do' — შეჩერება იმისთვის, რომ სხვა რამ გააკეთო.",
+      "examples": [
+        {
+          "en": "I stopped smoking.",
+          "ka": "მოვწყვიტე მოწევა."
+        },
+        {
+          "en": "I stopped to answer the call.",
+          "ka": "შევჩერდი, რომ ზარს ვუპასუხო."
+        },
+        {
+          "en": "I enjoy cooking at home.",
+          "ka": "მიყვარს სახლში მომზადება."
+        },
+        {
+          "en": "She decided to start exercising.",
+          "ka": "მან გადაწყვიტა ვარჯიშის დაწყება."
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "He stopped ___ (drink) coffee.",
+          "q_ka": "მან შეწყვიტა ___ (სმა) ყავა.",
+          "a_en": "He stopped drinking coffee."
+        },
+        {
+          "q_en": "We stopped ___ (buy) water.",
+          "q_ka": "შევჩერდით, რომ ___ (ვიყიდოთ) წყალი.",
+          "a_en": "We stopped to buy water."
+        }
+      ]
+    }
+  },
+  {
+    "day": 7,
+    "theme_en": "Money & shopping (B1→B2)",
+    "theme_ka": "ფული და შოპინგი (B1→B2)",
+    "words": [
+      [
+        "price tag",
+        "ფასის ეტიკეტი"
+      ],
+      [
+        "budget",
+        "ბიუჯეტი"
+      ],
+      [
+        "cash",
+        "ნაღდი"
+      ],
+      [
+        "card payment",
+        "ბარათით გადახდა"
+      ],
+      [
+        "installments",
+        "განვადება"
+      ],
+      [
+        "interest rate",
+        "საპროცენტო განაკვეთი"
+      ],
+      [
+        "fee",
+        "საკომისიო"
+      ],
+      [
+        "receipt",
+        "ქვითარი"
+      ],
+      [
+        "warranty",
+        "გარანტია"
+      ],
+      [
+        "return policy",
+        "დაბრუნების წესები"
+      ],
+      [
+        "exchange",
+        "გაცვლა"
+      ],
+      [
+        "refund",
+        "ანაზღაურება"
+      ],
+      [
+        "discount",
+        "ფასდაკლება"
+      ],
+      [
+        "promotion",
+        "აქცია"
+      ],
+      [
+        "value",
+        "ღირებულება"
+      ],
+      [
+        "quality",
+        "ხარისხი"
+      ],
+      [
+        "expensive",
+        "ძვირი"
+      ],
+      [
+        "cheap",
+        "იაფი"
+      ],
+      [
+        "reasonable",
+        "გონივრული"
+      ],
+      [
+        "worth it",
+        "ღირს"
+      ],
+      [
+        "to afford",
+        "შეძლება (ფინანსურად)"
+      ],
+      [
+        "to compare",
+        "შედარება"
+      ],
+      [
+        "to negotiate",
+        "მოლაპარაკება"
+      ],
+      [
+        "to charge",
+        "დარიცხვა/ჩამოჭრა"
+      ],
+      [
+        "to save",
+        "დაზოგვა"
+      ],
+      [
+        "to spend",
+        "ხარჯვა"
+      ],
+      [
+        "to invest",
+        "ინვესტირება"
+      ],
+      [
+        "to borrow",
+        "სესხება"
+      ],
+      [
+        "debt",
+        "ვალი"
+      ],
+      [
+        "income",
+        "შემოსავალი"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Conditionals 0 & 1 (real situations)",
+      "title_ka": "პირობითი წინადადებები 0 და 1 (რეალური სიტუაციები)",
+      "explanation_en": "Zero conditional: If + present, present (general truth). First conditional: If + present, will + verb (real future).",
+      "explanation_ka": "Zero: If + present, present (ზოგადი ჭეშმარიტება). First: If + present, will + verb (რეალური მომავალი).",
+      "examples": [
+        {
+          "en": "If I don’t sleep, I feel tired.",
+          "ka": "თუ არ დავიძინებ, თავს დაღლილად ვგრძნობ."
+        },
+        {
+          "en": "If it rains, we will stay home.",
+          "ka": "თუ იწვიმებს, სახლში დავრჩებით."
+        },
+        {
+          "en": "If you study, you will improve.",
+          "ka": "თუ ისწავლი, გაუმჯობესდები."
+        },
+        {
+          "en": "If prices go up, people complain.",
+          "ka": "თუ ფასები იზრდება, ხალხი ჩივის."
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "If I ___ (be) late, I ___ (call) you.",
+          "q_ka": "თუ ___ (დავაგვიანებ), ___ (დაგირეკავ).",
+          "a_en": "If I am late, I will call you."
+        },
+        {
+          "q_en": "If you heat ice, it ___.",
+          "q_ka": "თუ ყინულს გაათბობ, ის ___.",
+          "a_en": "If you heat ice, it melts."
+        }
+      ]
+    }
+  },
+  {
+    "day": 8,
+    "theme_en": "Communication & emails (B2 start)",
+    "theme_ka": "კომუნიკაცია და იმეილები (B2 დასაწყისი)",
+    "words": [
+      [
+        "subject line",
+        "თემის ველი"
+      ],
+      [
+        "attachment",
+        "დანართი"
+      ],
+      [
+        "draft",
+        "შავი ვარიანტი"
+      ],
+      [
+        "to forward",
+        "გადაგზავნა"
+      ],
+      [
+        "to reply",
+        "პასუხი"
+      ],
+      [
+        "to follow up",
+        "შეხსენება/გადამოწმება"
+      ],
+      [
+        "clarification",
+        "დაზუსტება"
+      ],
+      [
+        "request",
+        "მოთხოვნა"
+      ],
+      [
+        "proposal",
+        "წინადადება"
+      ],
+      [
+        "agreement",
+        "შეთანხმება"
+      ],
+      [
+        "terms",
+        "პირობები"
+      ],
+      [
+        "deadline",
+        "ვადა"
+      ],
+      [
+        "availability",
+        "ხელმისაწვდომობა"
+      ],
+      [
+        "schedule",
+        "განრიგი"
+      ],
+      [
+        "estimate",
+        "შეფასება/დარიცხვა"
+      ],
+      [
+        "invoice",
+        "ინვოისი/ანგარიში"
+      ],
+      [
+        "payment due",
+        "გადახდის ვადა"
+      ],
+      [
+        "shipment",
+        "გზავნილი/გადაზიდვა"
+      ],
+      [
+        "tracking number",
+        "ტრეკ-ნომერი"
+      ],
+      [
+        "issue",
+        "პრობლემა"
+      ],
+      [
+        "solution",
+        "გადაწყვეტა"
+      ],
+      [
+        "priority",
+        "პრიორიტეტი"
+      ],
+      [
+        "urgent",
+        "სასწრაფო"
+      ],
+      [
+        "appreciate",
+        "დაფასება"
+      ],
+      [
+        "regards",
+        "მოკითხვა (წერილის დასასრული)"
+      ],
+      [
+        "sincerely",
+        "პატივისცემით"
+      ],
+      [
+        "to confirm",
+        "დადასტურება"
+      ],
+      [
+        "to request",
+        "მოთხოვნა"
+      ],
+      [
+        "to provide",
+        "მიწოდება/მოწოდება"
+      ],
+      [
+        "to apologize",
+        "ბოდიშის მოხდა"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Polite requests (Could you…? / Would you mind…?)",
+      "title_ka": "ზრდილობიანი თხოვნა (Could you…? / Would you mind…?)",
+      "explanation_en": "Use softer forms to sound professional: Could you + verb? Would you mind + -ing? I’d appreciate it if…",
+      "explanation_ka": "პროფესიულად ჟღერს: Could you + ზმნა? Would you mind + -ing? I’d appreciate it if…",
+      "examples": [
+        {
+          "en": "Could you send the invoice today?",
+          "ka": "შეგიძლიათ დღეს გამოგზავნოთ ინვოისი?"
+        },
+        {
+          "en": "Would you mind confirming the delivery date?",
+          "ka": "თუ შეიძლება, დაადასტურებთ მიწოდების თარიღს?"
+        },
+        {
+          "en": "I’d appreciate it if you could share the price list.",
+          "ka": "დავაფასებდი, თუ ფასების სიას გამიზიარებთ."
+        },
+        {
+          "en": "Could we schedule a quick call?",
+          "ka": "შეგვიძლია მოკლე ზარი დავგეგმოთ?"
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "___ you mind ___ (check) this file?",
+          "q_ka": "___ წინააღმდეგი ხარ ___ (შეამოწმო) ეს ფაილი?",
+          "a_en": "Would you mind checking this file?"
+        },
+        {
+          "q_en": "Could you ___ (confirm) the order?",
+          "q_ka": "შეგიძლიათ ___ (დაადასტუროთ) შეკვეთა?",
+          "a_en": "Could you confirm the order?"
+        }
+      ]
+    }
+  },
+  {
+    "day": 9,
+    "theme_en": "Opinions & arguments (B2)",
+    "theme_ka": "აზრები და არგუმენტები (B2)",
+    "words": [
+      [
+        "in my opinion",
+        "ჩემი აზრით"
+      ],
+      [
+        "from my perspective",
+        "ჩემი ხედვით"
+      ],
+      [
+        "I agree",
+        "ვეთანხმები"
+      ],
+      [
+        "I disagree",
+        "არ ვეთანხმები"
+      ],
+      [
+        "however",
+        "თუმცა"
+      ],
+      [
+        "although",
+        "მიუხედავად იმისა, რომ"
+      ],
+      [
+        "therefore",
+        "ამიტომ"
+      ],
+      [
+        "as a result",
+        "შედეგად"
+      ],
+      [
+        "evidence",
+        "მტკიცებულება"
+      ],
+      [
+        "claim",
+        "მტკიცება/განაცხადი"
+      ],
+      [
+        "assumption",
+        "დაშვება"
+      ],
+      [
+        "bias",
+        "მიკერძოება"
+      ],
+      [
+        "to support (an idea)",
+        "მხარდაჭერა (იდეის)"
+      ],
+      [
+        "to challenge",
+        "გამოწვევა/დაპირისპირება"
+      ],
+      [
+        "to clarify",
+        "დაზუსტება"
+      ],
+      [
+        "to emphasize",
+        "ხაზგასმა"
+      ],
+      [
+        "to summarize",
+        "შეჯამება"
+      ],
+      [
+        "to conclude",
+        "დასკვნა"
+      ],
+      [
+        "to persuade",
+        "დარწმუნება"
+      ],
+      [
+        "argument",
+        "არგუმენტი"
+      ],
+      [
+        "counterargument",
+        "საპირისპირო არგუმენტი"
+      ],
+      [
+        "discussion",
+        "დისკუსია"
+      ],
+      [
+        "point of view",
+        "ხედვა"
+      ],
+      [
+        "strong point",
+        "ძლიერი მხარე"
+      ],
+      [
+        "weak point",
+        "სუსტი მხარე"
+      ],
+      [
+        "reasonable",
+        "გონივრული"
+      ],
+      [
+        "convincing",
+        "დამაჯერებელი"
+      ],
+      [
+        "unclear",
+        "გაურკვეველი"
+      ],
+      [
+        "consistent",
+        "თანმიმდევრული"
+      ],
+      [
+        "logical",
+        "ლოგიკური"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Linking words: although / however / because / therefore",
+      "title_ka": "შეერთებები: although / however / because / therefore",
+      "explanation_en": "Use linking words to make B2 sentences. 'Although' introduces contrast. 'However' contrasts between sentences. 'Because' gives reason. 'Therefore' gives result.",
+      "explanation_ka": "B2 წინადადებები უფრო დალაგებულია. 'Although' — კონტრასტი. 'However' — კონტრასტი წინადადებებს შორის. 'Because' — მიზეზი. 'Therefore' — შედეგი.",
+      "examples": [
+        {
+          "en": "Although it’s expensive, it’s worth it.",
+          "ka": "მიუხედავად იმისა, რომ ძვირია, ღირს."
+        },
+        {
+          "en": "I wanted to go. However, I was too tired.",
+          "ka": "მინდოდა წასვლა. თუმცა, ძალიან დავიღალე."
+        },
+        {
+          "en": "I stayed home because it was raining.",
+          "ka": "სახლში დავრჩი, რადგან წვიმდა."
+        },
+        {
+          "en": "Sales increased; therefore, profit improved.",
+          "ka": "გაყიდვები გაიზარდა; ამიტომ მოგებაც გაუმჯობესდა."
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "___ I was busy, I answered.",
+          "q_ka": "___ დაკავებული ვიყავი, ვუპასუხე.",
+          "a_en": "Although I was busy, I answered."
+        },
+        {
+          "q_en": "It was late; ___, we left.",
+          "q_ka": "გვიან იყო; ___, წავედით.",
+          "a_en": "It was late; therefore, we left."
+        }
+      ]
+    }
+  },
+  {
+    "day": 10,
+    "theme_en": "Plans & future (B2)",
+    "theme_ka": "გეგმები და მომავალი (B2)",
+    "words": [
+      [
+        "plan",
+        "გეგმა"
+      ],
+      [
+        "goal",
+        "მიზანი"
+      ],
+      [
+        "milestone",
+        "საფეხური/ეტაპი"
+      ],
+      [
+        "timeline",
+        "ვადები/ტაიმლაინი"
+      ],
+      [
+        "forecast",
+        "პროგნოზი"
+      ],
+      [
+        "risk",
+        "რისკი"
+      ],
+      [
+        "opportunity",
+        "შესაძლებლობა"
+      ],
+      [
+        "scenario",
+        "სცენარი"
+      ],
+      [
+        "to aim",
+        "მიზნად დასახვა"
+      ],
+      [
+        "to expect",
+        "მოლოდინი"
+      ],
+      [
+        "to predict",
+        "წინასწარმეტყველება/პროგნოზირება"
+      ],
+      [
+        "to intend",
+        "განზრახვა"
+      ],
+      [
+        "to promise",
+        "დაპირება"
+      ],
+      [
+        "to arrange",
+        "ორგანიზება"
+      ],
+      [
+        "to postpone",
+        "გადავადება"
+      ],
+      [
+        "to accelerate",
+        "აჩქარება"
+      ],
+      [
+        "to slow down",
+        "შენელება"
+      ],
+      [
+        "to expand",
+        "გაფართოება"
+      ],
+      [
+        "to scale",
+        "მასშტაბირება"
+      ],
+      [
+        "to invest",
+        "ინვესტირება"
+      ],
+      [
+        "to hire",
+        "დაქირავება"
+      ],
+      [
+        "to launch",
+        "გაშვება"
+      ],
+      [
+        "to test",
+        "ტესტირება"
+      ],
+      [
+        "likely",
+        "სავარაუდოდ"
+      ],
+      [
+        "unlikely",
+        "ნაკლებად სავარაუდო"
+      ],
+      [
+        "as soon as possible",
+        "რაც შეიძლება მალე"
+      ],
+      [
+        "in advance",
+        "წინასწარ"
+      ],
+      [
+        "eventually",
+        "ბოლოს და ბოლოს"
+      ],
+      [
+        "on time",
+        "დროულად"
+      ],
+      [
+        "overdue",
+        "ვადაგადაცილებული"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Future forms: will vs going to vs present continuous",
+      "title_ka": "მომავალი დრო: will vs going to vs present continuous",
+      "explanation_en": "'Will' = decision/prediction now. 'Going to' = plan/intention. Present continuous = fixed arrangement (time/place set).",
+      "explanation_ka": "'Will' — ახლავე გადაწყვეტილება/პროგნოზი. 'Going to' — გეგმა/განზრახვა. Present continuous — უკვე დაგეგმილი/ჩაწერილი ღონისძიება.",
+      "examples": [
+        {
+          "en": "I think it will rain.",
+          "ka": "მგონი იწვიმებს."
+        },
+        {
+          "en": "I’m going to open a new store.",
+          "ka": "ვაპირებ ახალი მაღაზიის გახსნას."
+        },
+        {
+          "en": "I’m meeting the supplier at 3 PM.",
+          "ka": "მომწოდებელს 3 საათზე ვხვდები."
+        },
+        {
+          "en": "Okay, I’ll call you now.",
+          "ka": "კარგი, ახლავე დაგირეკავ."
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "We ___ (meet) them tomorrow at 11.",
+          "q_ka": "ხვალ 11-ზე მათ ___ (ვხვდებით).",
+          "a_en": "We are meeting them tomorrow at 11."
+        },
+        {
+          "q_en": "Look at the clouds! It ___ (rain).",
+          "q_ka": "ღრუბლები შეხედე! ___ (წვიმს).",
+          "a_en": "It’s going to rain."
+        }
+      ]
+    }
+  },
+  {
+    "day": 11,
+    "theme_en": "Problem-solving (B2)",
+    "theme_ka": "პრობლემების გადაწყვეტა (B2)",
+    "words": [
+      [
+        "issue",
+        "პრობლემა"
+      ],
+      [
+        "root cause",
+        "ძირეული მიზეზი"
+      ],
+      [
+        "solution",
+        "გადაწყვეტა"
+      ],
+      [
+        "workaround",
+        "შემოვლითი გზა"
+      ],
+      [
+        "to diagnose",
+        "დიაგნოსტიკა"
+      ],
+      [
+        "to fix",
+        "შეკეთება/გამოსწორება"
+      ],
+      [
+        "to troubleshoot",
+        "დიაგნოსტირება/გამოსწორება"
+      ],
+      [
+        "to improve",
+        "გაუმჯობესება"
+      ],
+      [
+        "to optimize",
+        "ოპტიმიზაცია"
+      ],
+      [
+        "to reduce",
+        "შემცირება"
+      ],
+      [
+        "to increase",
+        "გაზრდა"
+      ],
+      [
+        "constraint",
+        "შეზღუდვა"
+      ],
+      [
+        "trade-off",
+        "კომპრომისი"
+      ],
+      [
+        "priority",
+        "პრიორიტეტი"
+      ],
+      [
+        "impact",
+        "ზეგავლენა"
+      ],
+      [
+        "effort",
+        "ძალისხმევა"
+      ],
+      [
+        "resource",
+        "რესურსი"
+      ],
+      [
+        "budget",
+        "ბიუჯეტი"
+      ],
+      [
+        "capacity",
+        "სიმძლავრე/შესაძლებლობა"
+      ],
+      [
+        "bottleneck",
+        "შეჩერების წერტილი"
+      ],
+      [
+        "delay",
+        "დაგვიანება"
+      ],
+      [
+        "risk",
+        "რისკი"
+      ],
+      [
+        "mitigation",
+        "რისკის შემცირება"
+      ],
+      [
+        "to prevent",
+        "პრევენცია"
+      ],
+      [
+        "to avoid",
+        "თავიდან არიდება"
+      ],
+      [
+        "to handle",
+        "მართვა/გამკლავება"
+      ],
+      [
+        "to escalate",
+        "ესკალაცია"
+      ],
+      [
+        "to report",
+        "შეტყობინება"
+      ],
+      [
+        "to resolve",
+        "გადაწყვეტა/მოგვარება"
+      ],
+      [
+        "to test",
+        "ტესტირება"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Passive voice (is done / was done)",
+      "title_ka": "Passive voice (კეთდება / გაკეთდა)",
+      "explanation_en": "Use passive when the action matters more than who does it. Present: is/are + past participle. Past: was/were + past participle.",
+      "explanation_ka": "Passive გამოიყენე როცა მოქმედებაა მთავარი და არა მოქმედი პირი. Present: is/are + V3. Past: was/were + V3.",
+      "examples": [
+        {
+          "en": "The order is shipped today.",
+          "ka": "შეკვეთა დღეს იგზავნება."
+        },
+        {
+          "en": "The problem was solved quickly.",
+          "ka": "პრობლემა სწრაფად მოგვარდა."
+        },
+        {
+          "en": "The invoice is sent by email.",
+          "ka": "ინვოისი ელფოსტით იგზავნება."
+        },
+        {
+          "en": "The meeting was postponed.",
+          "ka": "შეხვედრა გადაიდო."
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "The package ___ (deliver) tomorrow.",
+          "q_ka": "პაკეტი ხვალ ___ (მიეწოდება).",
+          "a_en": "The package will be delivered tomorrow."
+        },
+        {
+          "q_en": "The payment ___ (process) yesterday.",
+          "q_ka": "გადახდა გუშინ ___ (დამუშავდა).",
+          "a_en": "The payment was processed yesterday."
+        }
+      ]
+    }
+  },
+  {
+    "day": 12,
+    "theme_en": "Negotiation & business (B2)",
+    "theme_ka": "მოლაპარაკება და ბიზნესი (B2)",
+    "words": [
+      [
+        "exclusive",
+        "ექსკლუზიური"
+      ],
+      [
+        "partnership",
+        "პარტნიორობა"
+      ],
+      [
+        "sponsor",
+        "სპონსორი"
+      ],
+      [
+        "distribution",
+        "დისტრიბუცია"
+      ],
+      [
+        "margin",
+        "მარჟა"
+      ],
+      [
+        "wholesale",
+        "საბითუმო"
+      ],
+      [
+        "retail",
+        "საცალო"
+      ],
+      [
+        "inventory",
+        "მარაგი"
+      ],
+      [
+        "stock-out",
+        "მარაგის ამოწურვა"
+      ],
+      [
+        "lead time",
+        "მიწოდების დრო"
+      ],
+      [
+        "terms",
+        "პირობები"
+      ],
+      [
+        "contract",
+        "კონტრაქტი"
+      ],
+      [
+        "clause",
+        "პუნქტი"
+      ],
+      [
+        "commitment",
+        "ვალდებულება/ერთგულება"
+      ],
+      [
+        "volume",
+        "მოცულობა"
+      ],
+      [
+        "minimum order",
+        "მინიმალური შეკვეთა"
+      ],
+      [
+        "quotation",
+        "ფასის შეთავაზება"
+      ],
+      [
+        "invoice",
+        "ინვოისი"
+      ],
+      [
+        "shipment",
+        "გზავნილი"
+      ],
+      [
+        "customs",
+        "საბაჟო"
+      ],
+      [
+        "to negotiate",
+        "მოლაპარაკება"
+      ],
+      [
+        "to propose",
+        "წინადადება"
+      ],
+      [
+        "to agree",
+        "შეთანხმება"
+      ],
+      [
+        "to reject",
+        "უარყოფა"
+      ],
+      [
+        "to compromise",
+        "კომპრომისი"
+      ],
+      [
+        "to guarantee",
+        "გარანტია"
+      ],
+      [
+        "to deliver",
+        "მიწოდება"
+      ],
+      [
+        "to supply",
+        "მომარაგება"
+      ],
+      [
+        "to prioritize",
+        "პრიორიტეტად დასმა"
+      ],
+      [
+        "mutual",
+        "ორმხრივი"
+      ],
+      [
+        "beneficial",
+        "სასარგებლო/მომგებიანი"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Reported speech (He said that…)",
+      "title_ka": "Reported speech (მან თქვა, რომ…)",
+      "explanation_en": "When reporting, tense often shifts back: 'I am'→he said he was; 'I will'→he said he would. Keep meaning, not exact words.",
+      "explanation_ka": "გადმოცემისას დრო ხშირად უკან იწევს: 'I am'→he said he was; 'I will'→he said he would. მნიშვნელობა შეინარჩუნე.",
+      "examples": [
+        {
+          "en": "He said, “I am busy.” → He said he was busy.",
+          "ka": "მან თქვა: „დაკავებული ვარ.“ → მან თქვა, რომ დაკავებული იყო."
+        },
+        {
+          "en": "She said, “I will send it.” → She said she would send it.",
+          "ka": "მან თქვა: „გამოგიგზავნი.“ → მან თქვა, რომ გამოგზავნიდა."
+        },
+        {
+          "en": "They said, “We have a deal.” → They said they had a deal.",
+          "ka": "მათ თქვეს: „შეთანხმება გვაქვს.“ → მათ თქვეს, რომ შეთანხმება ჰქონდათ."
+        },
+        {
+          "en": "I said, “I can’t come.” → I said I couldn’t come.",
+          "ka": "მე ვთქვი: „ვერ მოვალ.“ → მე ვთქვი, რომ ვერ მოვიდოდი."
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "She said, “I will call you.” → She said she ___ call me.",
+          "q_ka": "მან თქვა: „დაგირეკავ.“ → მან თქვა, რომ ___ დამირეკავდა.",
+          "a_en": "She said she would call me."
+        },
+        {
+          "q_en": "He said, “I’m tired.” → He said he ___ tired.",
+          "q_ka": "მან თქვა: „დაღლილი ვარ.“ → მან თქვა, რომ ___ დაღლილი იყო.",
+          "a_en": "He said he was tired."
+        }
+      ]
+    }
+  },
+  {
+    "day": 13,
+    "theme_en": "Abstract topics & nuance (B2)",
+    "theme_ka": "აბსტრაქტული თემები და ნიუანსი (B2)",
+    "words": [
+      [
+        "concept",
+        "კონცეფცია"
+      ],
+      [
+        "principle",
+        "პრინციპი"
+      ],
+      [
+        "approach",
+        "მიდგომა"
+      ],
+      [
+        "framework",
+        "ჩარჩო/ფრეიმვორქი"
+      ],
+      [
+        "insight",
+        "ინსაითი/გააზრება"
+      ],
+      [
+        "pattern",
+        "ნიმუში/პატერნი"
+      ],
+      [
+        "trend",
+        "ტენდენცია"
+      ],
+      [
+        "context",
+        "კონტექსტი"
+      ],
+      [
+        "nuance",
+        "ნიუანსი"
+      ],
+      [
+        "interpretation",
+        "ინტერპრეტაცია"
+      ],
+      [
+        "perspective",
+        "პერსპექტივა/ხედვა"
+      ],
+      [
+        "impact",
+        "ზეგავლენა"
+      ],
+      [
+        "consequence",
+        "შედეგი"
+      ],
+      [
+        "trade-off",
+        "კომპრომისი"
+      ],
+      [
+        "uncertainty",
+        "გაურკვევლობა"
+      ],
+      [
+        "assumption",
+        "დაშვება"
+      ],
+      [
+        "constraint",
+        "შეზღუდვა"
+      ],
+      [
+        "priority",
+        "პრიორიტეტი"
+      ],
+      [
+        "objective",
+        "მიზანი (ოფიციალურად)"
+      ],
+      [
+        "efficient",
+        "ეფექტური"
+      ],
+      [
+        "effective",
+        "ეფექტიანი (შედეგიანი)"
+      ],
+      [
+        "consistent",
+        "თანმიმდევრული"
+      ],
+      [
+        "contradictory",
+        "ურთიერთგამომრიცხავი"
+      ],
+      [
+        "to imply",
+        "მინიშნება"
+      ],
+      [
+        "to emphasize",
+        "ხაზგასმა"
+      ],
+      [
+        "to interpret",
+        "ინტერპრეტაცია"
+      ],
+      [
+        "to assume",
+        "ვარაუდი"
+      ],
+      [
+        "to evaluate",
+        "შეფასება"
+      ],
+      [
+        "to refine",
+        "დახვეწა"
+      ],
+      [
+        "to highlight",
+        "გამოკვეთა"
+      ],
+      [
+        "to balance",
+        "ბალანსირება"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Relative clauses (who/which/that) — making longer sentences",
+      "title_ka": "Relative clauses (who/which/that) — გრძელი წინადადებები",
+      "explanation_en": "Use relative clauses to add info: 'The person who called me…' 'The product that I bought…'. Avoid repeating nouns.",
+      "explanation_ka": "Relative clause დამატებით ინფორმაციას აძლევს: 'The person who called me…' 'The product that I bought…'. ზედმეტი გამეორება არ გჭირდება.",
+      "examples": [
+        {
+          "en": "The supplier who emailed me is from Germany.",
+          "ka": "მომწოდებელი, რომელმაც მომწერა, გერმანიიდანაა."
+        },
+        {
+          "en": "This is the product that customers love.",
+          "ka": "ეს არის პროდუქტი, რომელიც მომხმარებლებს უყვართ."
+        },
+        {
+          "en": "I visited a place that was very quiet.",
+          "ka": "ვესტუმრე ადგილს, რომელიც ძალიან მშვიდი იყო."
+        },
+        {
+          "en": "Do you know the person who owns this shop?",
+          "ka": "იცნობ იმ ადამიანს, ვისაც ეს მაღაზია ეკუთვნის?"
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "This is the book ___ helped me.",
+          "q_ka": "ეს არის წიგნი, ___ დამეხმარა.",
+          "a_en": "This is the book that helped me."
+        },
+        {
+          "q_en": "He is the man ___ lives next door.",
+          "q_ka": "ის არის კაცი, ___ მეზობლად ცხოვრობს.",
+          "a_en": "He is the man who lives next door."
+        }
+      ]
+    }
+  },
+  {
+    "day": 14,
+    "theme_en": "Review & B2 consolidation",
+    "theme_ka": "გადახედვა და B2 კონსოლიდაცია",
+    "words": [
+      [
+        "review",
+        "გადახედვა"
+      ],
+      [
+        "revision",
+        "გადამეორება"
+      ],
+      [
+        "progress",
+        "პროგრესი"
+      ],
+      [
+        "consistency",
+        "სტაბილურობა"
+      ],
+      [
+        "confidence",
+        "თავდაჯერება"
+      ],
+      [
+        "fluency",
+        "საუბრის სისწრაფე/გამართულობა"
+      ],
+      [
+        "accuracy",
+        "სიზუსტე"
+      ],
+      [
+        "mistake",
+        "შეცდომა"
+      ],
+      [
+        "pattern",
+        "ნიმუში"
+      ],
+      [
+        "weakness",
+        "სუსტი მხარე"
+      ],
+      [
+        "strength",
+        "ძლიერი მხარე"
+      ],
+      [
+        "to improve",
+        "გაუმჯობესება"
+      ],
+      [
+        "to practice",
+        "ვარჯიში/პრაქტიკა"
+      ],
+      [
+        "to repeat",
+        "გამეორება"
+      ],
+      [
+        "to memorize",
+        "დამახსოვრება"
+      ],
+      [
+        "to apply",
+        "გამოყენება"
+      ],
+      [
+        "to explain",
+        "ახსნა"
+      ],
+      [
+        "to describe",
+        "აღწერა"
+      ],
+      [
+        "to compare",
+        "შედარება"
+      ],
+      [
+        "to persuade",
+        "დარწმუნება"
+      ],
+      [
+        "to negotiate",
+        "მოლაპარაკება"
+      ],
+      [
+        "to decide",
+        "გადაწყვეტა"
+      ],
+      [
+        "to prioritize",
+        "პრიორიტეტი"
+      ],
+      [
+        "habit",
+        "ჩვევა"
+      ],
+      [
+        "routine",
+        "რუტინა"
+      ],
+      [
+        "goal",
+        "მიზანი"
+      ],
+      [
+        "milestone",
+        "ეტაპი"
+      ],
+      [
+        "therefore",
+        "ამიტომ"
+      ],
+      [
+        "however",
+        "თუმცა"
+      ],
+      [
+        "although",
+        "მიუხედავად იმისა, რომ"
+      ],
+      [
+        "overall",
+        "საერთოდ/ჯამში"
+      ]
+    ],
+    "grammar": {
+      "title_en": "Mixed practice: choose the best structure",
+      "title_ka": "შერეული პრაქტიკა: აირჩიე სწორი სტრუქტურა",
+      "explanation_en": "Today you’ll combine: tenses, conditionals, linking words, and polite requests. Aim for clarity, not complexity.",
+      "explanation_ka": "დღეს აერთებ: დროებს, conditionals-ს, linking words-ს და ზრდილობიან თხოვნას. მთავარი არის სიცხადე, არა სირთულე.",
+      "examples": [
+        {
+          "en": "Although I was tired, I finished the task because it was urgent.",
+          "ka": "მიუხედავად იმისა, რომ დავიღალე, დავასრულე დავალება, რადგან სასწრაფო იყო."
+        },
+        {
+          "en": "If we agree on the terms, we will launch next week.",
+          "ka": "თუ პირობებზე შევთანხმდებით, მომავალ კვირას გავუშვებთ."
+        },
+        {
+          "en": "Could you confirm the delivery date? Therefore, I can plan the schedule.",
+          "ka": "შეგიძლიათ დაადასტუროთ მიწოდების თარიღი? ამიტომაც დავგეგმავ განრიგს."
+        },
+        {
+          "en": "I have improved a lot this month.",
+          "ka": "ამ თვეში ძალიან გავუმჯობესდი."
+        }
+      ],
+      "mini_quiz": [
+        {
+          "q_en": "Write one sentence using: although + because.",
+          "q_ka": "დაწერე ერთი წინადადება: although + because.",
+          "a_en": "Example: Although it was late, I stayed because I had work."
+        },
+        {
+          "q_en": "Make a polite request about a meeting time.",
+          "q_ka": "გააკეთე ზრდილობიანი თხოვნა შეხვედრის დროზე.",
+          "a_en": "Example: Could we schedule the meeting for 3 PM?"
+        }
+      ]
+    }
+  }
+]
