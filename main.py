@@ -44,36 +44,30 @@ def get_day_index(start_date: str | None, total_days: int) -> int:
     return (delta % total_days)
 
 def format_words(day_obj) -> str:
-    theme = f"📚 Day {day_obj['day']} — {day_obj['theme_en']} / {day_obj['theme_ka']}"
-    lines = [theme, "", "🟦 30 New Words (EN — KA):", ""]
-    for i, (en, ka) in enumerate(day_obj["words"], start=1):
-        lines.append(f"{i:02d}. {en} — {ka}")
-    lines.append("")
-    lines.append("✅ Mini task / მცირე დავალება:")
-    lines.append("Pick 5 words and write 1 sentence for each (EN).")
-    lines.append("აირჩიე 5 სიტყვა და თითოეულზე დაწერე 1 წინადადება (ინგლისურად).")
+    # Morning message: hello + words only (no headers, no numbering)
+    lines = ["კარგ დღეს გისურვებ თამო 🥰", ""]
+    for en, ka in day_obj["words"]:
+        lines.append(f"✨ {en} — {ka}")
     return "\n".join(lines)
 
 def format_grammar(day_obj) -> str:
+    # Evening message: short header + grammar immediately (no extra titles)
     g = day_obj["grammar"]
-    theme = f"🧠 Day {day_obj['day']} — Grammar / გრამატიკა"
-    lines = [theme, "", f"🔸 {g['title_en']}", f"🔹 {g['title_ka']}", ""]
-    lines += ["EN:", g["explanation_en"], "", "KA:", g["explanation_ka"], ""]
-    lines.append("Examples / მაგალითები:")
-    for ex in g["examples"]:
-        lines.append(f"• {ex['en']}")
-        lines.append(f"  — {ex['ka']}")
+    lines = ["აბა მეორე გაკვეთილიც გადაიკითხე 💪", ""]
+    lines.append(f"🧠 {g['explanation_en']}")
+    lines.append(f"🧠 {g['explanation_ka']}")
     lines.append("")
-    lines.append("Mini quiz / მცირე ტესტი:")
+    for ex in g["examples"]:
+        lines.append(f"✅ {ex['en']}")
+        lines.append(f"   {ex['ka']}")
+    lines.append("")
     for q in g["mini_quiz"]:
-        lines.append(f"Q: {q['q_en']}")
-        lines.append(f"კითხვა: {q['q_ka']}")
-        lines.append(f"✅ Answer: {q['a_en']}")
+        lines.append(f"❓ {q['q_en']}")
+        lines.append(f"   {q['q_ka']}")
+        lines.append(f"💡 {q['a_en']}")
         lines.append("")
-    lines.append("🔥 Challenge / ჩელენჯი:")
-    lines.append("Reply to yourself with 2 original sentences using today’s grammar.")
-    lines.append("დაწერე 2 საკუთარი წინადადება დღევანდელი გრამატიკით.")
     return "\n".join(lines).strip()
+
 
 def send_telegram_message(token: str, chat_id: str, text: str) -> None:
     url = f"https://api.telegram.org/bot{token}/sendMessage"
