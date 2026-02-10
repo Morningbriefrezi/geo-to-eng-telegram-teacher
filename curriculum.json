@@ -3,126 +3,39 @@
     "day": 1,
     "theme_en": "Daily life & routines (B1)",
     "theme_ka": "ყოველდღიური ცხოვრება და რუტინა (B1)",
-    "words": [
-      [
-        "routine",
-        "რუტინა/ჩვეულებრივი რეჟიმი"
-      ],
-      [
-        "habit",
-        "ჩვევა"
-      ],
-      [
-        "schedule",
-        "განრიგი"
-      ],
-      [
-        "appointment",
-        "შეხვედრა/ჩაწერა"
-      ],
-      [
-        "commute",
-        "სამსახურში/სწავლაში გზაზე სიარული"
-      ],
-      [
-        "errand",
-        "საქმე (წვრილი საქმეები)"
-      ],
-      [
-        "groceries",
-        "სასურსათო პროდუქტები"
-      ],
-      [
-        "laundry",
-        "სარეცხი"
-      ],
-      [
-        "deadline",
-        "ვადა"
-      ],
-      [
-        "notification",
-        "შეტყობინება"
-      ],
-      [
-        "reminder",
-        "შეხსენება"
-      ],
-      [
-        "to reschedule",
-        "გადატანა/გადაწყობა"
-      ],
-      [
-        "to cancel",
-        "გაუქმება"
-      ],
-      [
-        "to confirm",
-        "დადასტურება"
-      ],
-      [
-        "to manage",
-        "მართვა/გამკლავება"
-      ],
-      [
-        "to focus",
-        "კონცენტრირება"
-      ],
-      [
-        "to avoid",
-        "თავიდან არიდება"
-      ],
-      [
-        "to prefer",
-        "უპირატესობის მინიჭება"
-      ],
-      [
-        "to improve",
-        "გაუმჯობესება"
-      ],
-      [
-        "to save time",
-        "დროის დაზოგვა"
-      ],
-      [
-        "productive",
-        "პროდუქტიული"
-      ],
-      [
-        "efficient",
-        "ეფექტური"
-      ],
-      [
-        "stressful",
-        "სტრესული"
-      ],
-      [
-        "relaxed",
-        "დამშვიდებული"
-      ],
-      [
-        "tired",
-        "დაღლილი"
-      ],
-      [
-        "energetic",
-        "ენერგიული"
-      ],
-      [
-        "usually",
-        "ჩვეულებრივ"
-      ],
-      [
-        "rarely",
-        "იშვიათად"
-      ],
-      [
-        "at least",
-        "სულ მცირე"
-      ],
-      [
-        "instead",
-        "მაგივრად/ნაცვლად"
+   "words": [
+  ["meticulous", "ზედმიწევნითი"],
+  ["inevitable", "აუცილებელი / გარდაუვალი"],
+  ["ambiguous", "ორაზროვანი"],
+  ["substantial", "მნიშვნელოვანი / სოლიდური"],
+  ["coherent", "თანმიმდევრული"],
+  ["pragmatic", "პრაგმატული"],
+  ["resilient", "გამძლე"],
+  ["scrutinize", "დაკვირვებით შემოწმება"],
+  ["articulate", "გამართულად გამოხატვა"],
+  ["allocate", "განაწილება"],
+  ["optimize", "ოპტიმიზაცია"],
+  ["leverage", "რესურსის გამოყენება"],
+  ["constraint", "შეზღუდვა"],
+  ["feasible", "რეალისტური / შესაძლებელი"],
+  ["counterproductive", "საპირისპირო შედეგის მომტანი"],
+  ["deliberate", "განზრახ / გააზრებული"],
+  ["insightful", "ღრმა აზრის მქონე"],
+  ["notwithstanding", "მიუხედავად ამისა"],
+  ["whereas", "მაშინ როცა"],
+  ["hence", "შედეგად / ამიტომ"],
+  ["notion", "ცნება"],
+  ["implication", "შედეგი / მინიშნება"],
+  ["robust", "ძლიერი / მდგრადი"],
+  ["nuance", "ნიუანსი"],
+  ["perceive", "აღქმა"],
+  ["assert", "დაჯერებით თქმა"],
+  ["justify", "გამართლება"],
+  ["plausible", "დაჯერებადი"],
+  ["overlook", "უგულებელყოფა"],
+  ["sustain", "შენარჩუნება"]
+]
+
       ]
     ],
     "grammar": {
@@ -330,122 +243,38 @@
     "theme_en": "Work & productivity (B1)",
     "theme_ka": "სამუშაო და პროდუქტიულობა (B1)",
     "words": [
-      [
-        "task",
-        "დავალება"
-      ],
-      [
-        "priority",
-        "პრიორიტეტი"
-      ],
-      [
-        "progress",
-        "პროგრესი"
-      ],
-      [
-        "feedback",
-        "უკუკავშირი"
-      ],
-      [
-        "meeting",
-        "შეხვედრა"
-      ],
-      [
-        "agenda",
-        "დღის წესრიგი"
-      ],
-      [
-        "minutes",
-        "შეხვედრის ჩანაწერი"
-      ],
-      [
-        "proposal",
-        "წინადადება"
-      ],
-      [
-        "budget",
-        "ბიუჯეტი"
-      ],
-      [
-        "profit",
-        "მოგება"
-      ],
-      [
-        "loss",
-        "ზარალი"
-      ],
-      [
-        "expense",
-        "ხარჯი"
-      ],
-      [
-        "revenue",
-        "შემოსავალი"
-      ],
-      [
-        "strategy",
-        "სტრატეგია"
-      ],
-      [
-        "goal",
-        "მიზანი"
-      ],
-      [
-        "deadline",
-        "ვადა"
-      ],
-      [
-        "to negotiate",
-        "მოლაპარაკება"
-      ],
-      [
-        "to approve",
-        "დამტკიცება"
-      ],
-      [
-        "to postpone",
-        "გადავადება"
-      ],
-      [
-        "to delegate",
-        "დელეგირება"
-      ],
-      [
-        "to hire",
-        "დაქირავება"
-      ],
-      [
-        "to train",
-        "გაწვრთნა/სწავლება"
-      ],
-      [
-        "to launch",
-        "გაშვება"
-      ],
-      [
-        "to track",
-        "მონიტორინგი/თვალყურის დევნება"
-      ],
-      [
-        "to measure",
-        "გაზომვა/შეფასება"
-      ],
-      [
-        "pipeline",
-        "შეთანხმებების/გაყიდვების ხაზის პროცესი"
-      ],
-      [
-        "stakeholder",
-        "დაინტერესებული მხარე"
-      ],
-      [
-        "urgent",
-        "სასწრაფო"
-      ],
-      [
-        "optional",
-        "არასავალდებულო"
-      ]
+  ["meticulous","ზედმიწევნითი"],
+  ["inevitable","გარდაუვალი"],
+  ["overwhelmed","გადატვირთული/გადაღლილი"],
+  ["to unwind","დამშვიდება/განტვირთვა"],
+  ["to recharge","ენერგიის აღდგენა"],
+  ["to prioritize","პრიორიტეტად დაყენება"],
+  ["to postpone","გადადება"],
+  ["to procrastinate","საქმის გაწელვა"],
+  ["efficient","ეფექტური"],
+  ["consistent","თანმიმდევრული"],
+  ["to stick to (a plan)","გეგმის მიყოლა"],
+  ["to maintain","შენარჩუნება"],
+  ["to compromise","კომპრომისზე წასვლა"],
+  ["to handle","გამკლავება/მოგვარება"],
+  ["to multitask","ერთდროულად ბევრი საქმის კეთება"],
+  ["to simplify","გამარტივება"],
+  ["to declutter","დალაგება/ზედმეტების მოცილება"],
+  ["messy","არეულ-დარეული"],
+  ["tidy","მოწესრიგებული"],
+  ["convenient","მოსახერხებელი"],
+  ["inconvenient","არამოსახერხებელი"],
+  ["unpredictable","არაპროგნოზირებადი"],
+  ["to adapt","მორგება/ადაპტაცია"],
+  ["flexible","მოქნილი"],
+  ["rigid","ხისტი/არამოქნილი"],
+  ["to schedule","დაგეგმვა"],
+  ["to reschedule","გადაგეგმვა"],
+  ["to run errands","წვრილი საქმეების გაკეთება"],
+  ["time-consuming","დროის მომთხოვნი"],
+  ["worthwhile","ღირებული/ღირს"]
+]
+
     ],
     "grammar": {
       "title_en": "Modals for obligation: must / have to / should",
@@ -488,127 +317,39 @@
     "day": 4,
     "theme_en": "Travel & directions (B1→B2)",
     "theme_ka": "მოგზაურობა და მიმართულებები (B1→B2)",
-    "words": [
-      [
-        "destination",
-        "დანიშნულება"
-      ],
-      [
-        "route",
-        "მარშრუტი"
-      ],
-      [
-        "intersection",
-        "გადაკვეთა"
-      ],
-      [
-        "lane",
-        "ზოლი"
-      ],
-      [
-        "traffic",
-        "მოძრაობა/ტრეფიკი"
-      ],
-      [
-        "delay",
-        "დაგვიანება/შეყოვნება"
-      ],
-      [
-        "cancelled",
-        "გაუქმებული"
-      ],
-      [
-        "boarding pass",
-        "ბორტპასი"
-      ],
-      [
-        "check-in",
-        "ჩექ-ინი"
-      ],
-      [
-        "luggage",
-        "ბარგი"
-      ],
-      [
-        "carry-on",
-        "ხელბარგი"
-      ],
-      [
-        "customs",
-        "საბაჟო"
-      ],
-      [
-        "insurance",
-        "დაზღვევა"
-      ],
-      [
-        "reservation",
-        "ჯავშანი"
-      ],
-      [
-        "hostel",
-        "ჰოსტელი"
-      ],
-      [
-        "apartment",
-        "ბინა"
-      ],
-      [
-        "sightseeing",
-        "ღირსშესანიშნაობების ნახვა"
-      ],
-      [
-        "museum",
-        "მუზეუმი"
-      ],
-      [
-        "to book",
-        "დაჯავშნა"
-      ],
-      [
-        "to miss",
-        "გამოტოვება/ვერ მისწრება"
-      ],
-      [
-        "to catch (a bus)",
-        "დასწრება/ჩაჯდომა"
-      ],
-      [
-        "to suggest",
-        "რეკომენდაცია"
-      ],
-      [
-        "straight ahead",
-        "პირდაპირ წინ"
-      ],
-      [
-        "turn left",
-        "მარცხნივ მოუხვიე"
-      ],
-      [
-        "turn right",
-        "მარჯვნივ მოუხვიე"
-      ],
-      [
-        "nearby",
-        "ახლომახლო"
-      ],
-      [
-        "far away",
-        "შორს"
-      ],
-      [
-        "crowded",
-        "ხალხმრავალი"
-      ],
-      [
-        "quiet",
-        "მშვიდი"
-      ],
-      [
-        "affordable",
-        "ხელმისაწვდომი/იაფი"
-      ]
+  "words": [
+  ["self-aware","თვითშეგნებული"],
+  ["confident","თავდაჯერებული"],
+  ["insecure","თავდაურწმუნებელი"],
+  ["content","კმაყოფილი"],
+  ["frustrated","გაღიზიანებული"],
+  ["irritated","გაღიზიანებული/გაბრაზებული"],
+  ["relieved","მოშვებული/შვებით"],
+  ["anxious","შფოთიანი"],
+  ["stressed out","ძალიან სტრესიანი"],
+  ["calm","მშვიდი"],
+  ["to overthink","ზედმეტად ფიქრი"],
+  ["to doubt","ეჭვი შეტანა"],
+  ["to reassure","დამშვიდება/დარწმუნება"],
+  ["to encourage","წახალისება"],
+  ["to motivate","მოტივაციის მიცემა"],
+  ["to cope","გამკლავება"],
+  ["to vent","გულის გადმოღება"],
+  ["to be drained","გამოფიტული ყოფნა"],
+  ["to be burnt out","გადამწვარი/გადაღლილი"],
+  ["resilient","გამძლე"],
+  ["sensitive","მგრძნობიარე"],
+  ["emotionally available","ემოციურად გახსნილი"],
+  ["to set boundaries","საზღვრების დაყენება"],
+  ["to respect boundaries","საზღვრების პატივისცემა"],
+  ["to take it personally","პირადად მიღება"],
+  ["to let it go","გაშვება/დავიწყება"],
+  ["to keep it together","თავის შეკავება"],
+  ["to lose patience","მოთმინების დაკარგვა"],
+  ["to regain control","კონტროლის დაბრუნება"],
+  ["balanced","ბალანსირებული"]
+]
+
     ],
     "grammar": {
       "title_en": "Prepositions of place & movement (to / at / in / on)",
@@ -651,123 +392,39 @@
     "day": 5,
     "theme_en": "People & relationships (B1)",
     "theme_ka": "ადამიანები და ურთიერთობები (B1)",
-    "words": [
-      [
-        "supportive",
-        "მხარდამჭერი"
-      ],
-      [
-        "reliable",
-        "სანდო"
-      ],
-      [
-        "honest",
-        "გულწრფელი"
-      ],
-      [
-        "polite",
-        "ზრდილი"
-      ],
-      [
-        "rude",
-        "უხეში"
-      ],
-      [
-        "confident",
-        "თავდაჯერებული"
-      ],
-      [
-        "shy",
-        "მორიდებული"
-      ],
-      [
-        "patient",
-        "მოთმინებით"
-      ],
-      [
-        "impatient",
-        "მოუთმენელი"
-      ],
-      [
-        "relationship",
-        "ურთიერთობა"
-      ],
-      [
-        "friendship",
-        "მეგობრობა"
-      ],
-      [
-        "colleague",
-        "კოლეგა"
-      ],
-      [
-        "neighbor",
-        "მეზობელი"
-      ],
-      [
-        "argument",
-        "კამათი"
-      ],
-      [
-        "misunderstanding",
-        "გაუგებრობა"
-      ],
-      [
-        "apology",
-        "ბოდიში"
-      ],
-      [
-        "compliment",
-        "კომპლიმენტი"
-      ],
-      [
-        "to agree",
-        "დათანხმება"
-      ],
-      [
-        "to disagree",
-        "არ დაეთანხმო"
-      ],
-      [
-        "to trust",
-        "ნდობა"
-      ],
-      [
-        "to respect",
-        "პატივისცემა"
-      ],
-      [
-        "to behave",
-        "ქცევა"
-      ],
-      [
-        "to blame",
-        "დაბრალება"
-      ],
-      [
-        "to forgive",
-        "პატიება"
-      ],
-      [
-        "to appreciate",
-        "დაფასება"
-      ],
-      [
-        "to support",
-        "მხარდაჭერა"
-      ],
-      [
-        "to worry",
-        "ნერვიულობა"
-      ],
-      [
-        "to relax",
-        "დამშვიდება"
-      ],
-      [
-        "to meet up",
-        "შეხვედრა/ნახვა"
-      ]
+   "words": [
+  ["straightforward","პირდაპირი/გულწრფელი"],
+  ["tactful","ტაქტიანი"],
+  ["blunt","უხეში პირდაპირი"],
+  ["to clarify","დაზუსტება"],
+  ["to elaborate","დამატებით ახსნა"],
+  ["to emphasize","ხაზგასმა"],
+  ["to assume","ვარაუდი/დაშვება"],
+  ["assumption","დაშვება"],
+  ["misunderstanding","გაუგებრობა"],
+  ["to misinterpret","არასწორად გაგება"],
+  ["to interrupt","შეწყვეტა/შუაში ჩაჭრა"],
+  ["to listen closely","ყურადღებით მოსმენა"],
+  ["to bring up (a topic)","თემის წამოწევა"],
+  ["to avoid a topic","თემის არიდება"],
+  ["to confront","პირდაპირ დაპირისპირება"],
+  ["to smooth things over","დამშვიდება/გასწორება"],
+  ["to apologize","ბოდიშის მოხდა"],
+  ["sincere","გულწრფელი"],
+  ["awkward","უხერხული"],
+  ["to make a point","აზრის დაფიქსირება"],
+  ["to agree","დათანხმება"],
+  ["to disagree","არ დაეთანხმო"],
+  ["to compromise","კომპრომისი"],
+  ["to negotiate","მოლაპარაკება"],
+  ["to persuade","დარწმუნება"],
+  ["to criticize","კრიტიკა"],
+  ["constructive","კონსტრუქციული"],
+  ["sarcastic","სარკასტული"],
+  ["tone","ტონი/ტემპერამენტი"],
+  ["to set the record straight","სიმართლის გარკვევა"]
+]
+
     ],
     "grammar": {
       "title_en": "Comparatives & superlatives (better, the best)",
@@ -810,123 +467,36 @@
     "day": 6,
     "theme_en": "Health & habits (B1→B2)",
     "theme_ka": "ჯანმრთელობა და ჩვევები (B1→B2)",
-    "words": [
-      [
-        "symptom",
-        "სიმპტომი"
-      ],
-      [
-        "treatment",
-        "მკურნალობა"
-      ],
-      [
-        "medicine",
-        "წამალი"
-      ],
-      [
-        "prescription",
-        "რეცეპტი"
-      ],
-      [
-        "side effect",
-        "გვერდითი ეფექტი"
-      ],
-      [
-        "appointment",
-        "ჩაწერა/ვიზიტი"
-      ],
-      [
-        "check-up",
-        "პროფილაქტიკა/შემოწმება"
-      ],
-      [
-        "diet",
-        "კვება/დიეტა"
-      ],
-      [
-        "nutrition",
-        "კვებითი ღირებულება"
-      ],
-      [
-        "hydration",
-        "ჰიდრატაცია"
-      ],
-      [
-        "sleep quality",
-        "ძილის ხარისხი"
-      ],
-      [
-        "stress",
-        "სტრესი"
-      ],
-      [
-        "anxiety",
-        "შფოთვა"
-      ],
-      [
-        "pain",
-        "ტკივილი"
-      ],
-      [
-        "to recover",
-        "გამოჯანმრთელება"
-      ],
-      [
-        "to prevent",
-        "პრევენცია"
-      ],
-      [
-        "to reduce",
-        "შემცირება"
-      ],
-      [
-        "to increase",
-        "გაზრდა"
-      ],
-      [
-        "to breathe",
-        "სუნთქვა"
-      ],
-      [
-        "to cough",
-        "ხველა"
-      ],
-      [
-        "to exercise",
-        "ვარჯიში"
-      ],
-      [
-        "workout",
-        "ვარჯიში/ტრენინგი"
-      ],
-      [
-        "stretching",
-        "გაწელვა"
-      ],
-      [
-        "posture",
-        "მდგომარეობა/პოზა"
-      ],
-      [
-        "injury",
-        "ტრავმა"
-      ],
-      [
-        "healthy",
-        "ჯანმრთელი"
-      ],
-      [
-        "unhealthy",
-        "არაჯანმრთელი"
-      ],
-      [
-        "balanced",
-        "ბალანსირებული"
-      ],
-      [
-        "moderation",
-        "ზომიერება"
-      ]
+   "words": [
+  ["to catch up","მოკითხვა/ახლების გაზიარება"],
+  ["to hang out","ერთად დროის გატარება"],
+  ["to make plans","გეგმების დასახვა"],
+  ["to cancel last minute","ბოლოს წუთს გაუქმება"],
+  ["to stand someone up","არ მისვლა შეხვედრაზე"],
+  ["reliable","სანდო"],
+  ["unreliable","არასანდო"],
+  ["supportive","მხარდამჭერი"],
+  ["judgmental","განმსჯელი/მკაცრი"],
+  ["open-minded","გახსნილი აზროვნების"],
+  ["to get along","გადაწყობა/კარგად ყოფნა"],
+  ["to drift apart","დაშორება დროთა განმავლობაში"],
+  ["to fall out","ჩხუბი/დაპირისპირება"],
+  ["to reconcile","შერიგება"],
+  ["to bond","დაახლოება"],
+  ["to connect","კავშირი/დაკავშირება"],
+  ["to feel included","ჩართული/მიღებული ყოფნა"],
+  ["to feel left out","გარეთ დარჩენილი ყოფნა"],
+  ["to trust","ნდობა"],
+  ["to betray","ღალატი"],
+  ["to gossip","ჭორაობა"],
+  ["to overstep","ზღვრის გადაკვეთა"],
+  ["to respect","პატივისცემა"],
+  ["to be on the same page","ერთ აზრზე ყოფნა"],
+  ["to take the hint","მინიშნების მიხვედრა"],
+  ["to be supportive","მხარდამჭერი ყოფნა"],
+  ["to be distant","დაშორებული/ცივი"],
+  ["to be clingy","ზედმეტად მიჯაჭვული"],
+
     ],
     "grammar": {
       "title_en": "Gerunds vs infinitives (stop doing / stop to do)",
