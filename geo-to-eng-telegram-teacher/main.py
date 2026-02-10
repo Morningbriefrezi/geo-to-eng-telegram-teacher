@@ -109,7 +109,9 @@ def main():
     else:
         msg = format_words(day_obj)
 
-    send_telegram_message(token, chat_id, msg)
+    signature = "\n\nსიყვარულით რეზისგან 🥰"
+send_telegram_message(token, chat_id, msg + signature)
+
     print("Sent:", mode, "Day", day_obj["day"])
 
 if __name__ == "__main__":
