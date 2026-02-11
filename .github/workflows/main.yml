@@ -1,11 +1,17 @@
 name: Daily English Teacher
 
 on:
+  push:
   schedule:
-    # GitHub Actions uses UTC. Tbilisi is UTC+4.
-    - cron: "0 7 * * *"   # 11:00 Tbilisi
-    - cron: "0 13 * * *"  # 17:00 Tbilisi
+    - cron: "0 7 * * *"
+    - cron: "0 13 * * *"
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "words or grammar"
+        required: true
+        default: "words"
+
     inputs:
       mode:
         description: "words or grammar"
