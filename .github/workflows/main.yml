@@ -3,15 +3,10 @@ name: Daily English Teacher
 on:
   push:
   schedule:
-    - cron: "0 7 * * *"
-    - cron: "0 13 * * *"
+    # UTC times (Tbilisi = UTC+4)
+    - cron: "0 7 * * *"   # 11:00 Tbilisi
+    - cron: "0 13 * * *"  # 17:00 Tbilisi
   workflow_dispatch:
-    inputs:
-      mode:
-        description: "words or grammar"
-        required: true
-        default: "words"
-
     inputs:
       mode:
         description: "words or grammar"
@@ -21,6 +16,7 @@ on:
 jobs:
   send:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -30,6 +26,12 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
       - name: Send lesson to Telegram
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -37,12 +39,13 @@ jobs:
           START_DATE: ${{ secrets.START_DATE }}
           MODE: ${{ github.event.inputs.mode }}
         run: |
-          if [ -z "${MODE}" ]; then
+          if [ -z "$MODE" ]; then
             HOUR=$(date -u +"%H")
-            if [ "${HOUR}" = "07" ]; then
+            if [ "$HOUR" = "07" ]; then
               export MODE="words"
             else
               export MODE="grammar"
             fi
           fi
+
           python main.py
