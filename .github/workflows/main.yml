@@ -1,51 +1,20 @@
-name: Daily English Teacher
+name: Word Bot
 
 on:
-  push:
   schedule:
-    # UTC times (Tbilisi = UTC+4)
-    - cron: "0 7 * * *"   # 11:00 Tbilisi
-    - cron: "0 13 * * *"  # 17:00 Tbilisi
-  workflow_dispatch:
-    inputs:
-      mode:
-        description: "words or grammar"
-        required: true
-        default: "words"
+    - cron: "0 9 */2 * *"
+  workflow_dispatch: {}
 
 jobs:
   send:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          fi
-
-      - name: Send lesson to Telegram
+      - name: Send words
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          START_DATE: ${{ secrets.START_DATE }}
-          MODE: ${{ github.event.inputs.mode }}
-        run: |
-          if [ -z "$MODE" ]; then
-            HOUR=$(date -u +"%H")
-            if [ "$HOUR" = "07" ]; then
-              export MODE="words"
-            else
-              export MODE="grammar"
-            fi
-          fi
-
-          python main.py
+        run: python main.py
